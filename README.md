@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi! I'm Fernando, Backend Developer
 
-<!--
-**Emainfix/Emainfix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+******
 
-Here are some ideas to get you started:
+Backend Developer focused on Node.js, APIs and Cloud
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+******
+
+## 🛠 Tech Stack:
+Node.js • Express • MySQL • Docker • AWS EC2 • JWT
+
+******
+
+## 🚀 Featured Project: Backend REST API
+
+• Node.js + Express
+• MySQL (Dockerized)
+• Authentication with JWT
+• Deployed on AWS EC2
+
+******
+
+🔗 Repo: https://github.com/Emainfix/Backend-Test.git
+🌐 Live API EC2: [http://18.216.99.39:3000](http://18.216.99.39:3000/api/usuarios)
+📄 Docs: /api/usuarios
+
+
+******
+
+## 📫 Contact:
+Email: fevillegas.dev@gmail.com
+LinkedIn: https://linkedin.com/in/emanuel-dev
+
+## 💼 Currently looking for a Junior Backend Developer position
+

@@ -21,7 +21,8 @@ Node.js • Express • MySQL • Docker • AWS EC2 • JWT
 ******
 
 🔗 Repo: https://github.com/Emainfix/Backend-Test.git
-🌐 Live API EC2: [http://18.216.99.39:3000](http://18.216.99.39:3000/api/usuarios)
+🌐 Live API: http://18.216.99.39:3000
+🔓 Public Demo: http://18.216.99.39:3000/api/usuarios
 📄 Docs: /api/usuarios
 
 
